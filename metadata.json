@@ -1,0 +1,7 @@
+{
+  "name": "Global Lead Gen AI",
+  "description": "A powerful lead generation tool using Google Maps and Search grounding to find business details worldwide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
